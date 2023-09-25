@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Book Title</title>
+    <link rel="stylesheet" href="site.css">
 </head>
 <body>
     <h1>Book Title</h1>
